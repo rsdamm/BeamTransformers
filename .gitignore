@@ -1,0 +1,13 @@
+/target/
+/JavaApplication2/nbproject/private/
+/JavaApplication2/build/
+/ProgrammingLabs/nbproject/private/
+/Maps/nbproject/private/
+/Maps/build/
+/ProgrammingLabs/build/
+*.bak
+*.properties
+*.class
+*.csv*
+king*.txt
+
